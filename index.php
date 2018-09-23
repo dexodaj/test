@@ -1,3 +1,2 @@
 <?php
-require 'index.zzz';
-sleep(20);
+exit(1);
