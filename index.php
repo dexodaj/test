@@ -1,2 +1,2 @@
 <?php
-file_put_contents ('a.php', '');
+sleep(20);
